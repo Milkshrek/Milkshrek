@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milkshrek
 - 👀 I’m interested in learning. 
-- 🌱 I’m currently learning how to become UI/UX Designer.
+- 🌱 I’m currently learning how to become UX/UI Designer.
 - 📫 How to reach me tg @milkshrek
 
 <!---
